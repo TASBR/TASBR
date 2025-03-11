@@ -1,6 +1,6 @@
 ## Olá 👋! Meu nome é Thiago  
 
-Sou um Desenvolvedor Fullstack, trabalho na área de desenvolvimento a mais de 10 anos, e estas são algumas das tecnologias em que tenho atuado atualmente:  
+Sou um Desenvolvedor Fullstack, trabalho na área de desenvolvimento a mais de 10 anos, e estas são algumas das tecnologias em que tenho atuado recentemente:  
 
 ### 🚀 Tecnologias  
 
