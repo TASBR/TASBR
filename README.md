@@ -18,9 +18,3 @@ Sou um Desenvolvedor Fullstack, trabalho na área de desenvolvimento a mais de 1
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Microsoft Azure" width="50"/>  
 <img src="https://static.cdnlogo.com/logos/n/80/next-js.svg" alt="NextJS" width="50"/>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tasbr/tasbr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tasbr/tasbr/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tasbr/tasbr/output/pacman-contribution-graph.svg">
-</picture>
